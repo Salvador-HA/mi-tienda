@@ -58,6 +58,9 @@ export default function Home() {
           >
             Documentation
           </a>
+          <button className="bg-blue-500 text-white p-4 rounded">
+  ¡Soy un botón azul!
+</button>
         </div>
       </main>
     </div>
